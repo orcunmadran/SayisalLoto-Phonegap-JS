@@ -1,2 +1,2 @@
-# net.madran.sayisalloto
+# net.madran.sayisalLoto
 Sayısal Loto tahmin uygulaması
